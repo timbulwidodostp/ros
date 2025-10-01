@@ -1,4 +1,6 @@
-D 'DEA': Data envelopment analysis
+D 'ros': Estimation of regression order statistics Use ros With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F boxcoxsim.ado
+F boxcoxsim.sthlp
+F ros.ado
+F ros.sthlp
