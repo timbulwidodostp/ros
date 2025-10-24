@@ -1,6 +1,8 @@
 # ros
 Estimation of regression order statistics Use ros With STATA 19
 
+https://www.youtube.com/watch?v=6WDRVc7yZI0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
